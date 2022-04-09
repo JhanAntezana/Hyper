@@ -1,0 +1,5 @@
+Hola soy Jhan y tengo 20 años.
+Estoy estudiando git
+Nueva modificación despues de reset
+Soy estudiante de la UNI
+Tambien soy estudiante en Platzi
